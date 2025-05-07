@@ -10,8 +10,8 @@
         "tb_logger": "tb_logger", // path of tensorboard logger
         "results": "results",
         "checkpoint": "checkpoint",
-//        "resume_state": "experiments/train_inpainting_celebahq_250405_085204/checkpoint/last/113"
-        "resume_state": null // ex: 100, loading .state  and .pth from given epoch and iteration
+        "resume_state": "/kaggle/input/l8-dit-64-kann/l8_dit_64_kan/33"
+//        "resume_state": null // ex: 100, loading .state  and .pth from given epoch and iteration
     },
 
     "datasets": { // train or test
